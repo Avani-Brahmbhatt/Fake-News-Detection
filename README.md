@@ -69,6 +69,4 @@ This project leverages **BERT (Bidirectional Encoder Representations from Transf
 ---
 
 **Built with ❤️ using BERT and Streamlit**
-```
 
----
